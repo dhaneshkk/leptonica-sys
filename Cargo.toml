@@ -1,6 +1,7 @@
 [package]
 name = "leptonica-sys"
-version = "0.4.9"
+version = "0.3.5"   # keep same version as crates.io
+
 authors = ["Chris Couzens <ccouzens@gmail.com>"]
 edition = "2018"
 links = "lept"
